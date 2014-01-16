@@ -1,0 +1,66 @@
+# Java Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Build files #
+###############
+build.log
+build
+archive
+.sass-cache
+target/
+
+# Misc files #
+##############
+*.swp
+*.py[cod]
+*.DS_Store
+
+############################
+#Eclipse Specific GitIgnore#
+############################
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+*.swp
+*.*~
+
+# Webapp test files #
+###############
+#src/java/tools/*
+#!src/java/tools/test/
+#!src/java/tools/test/Jasmine-Parser.js
+#src/java/tools/test/jasmine-standalone-*
+#src/java/tools/test/exec
+#jasmine-errors.log
+
+
+
