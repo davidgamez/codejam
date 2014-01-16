@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.codejam.common;
+package codejam.common;
 
 /**
  * @author dgamez

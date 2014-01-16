@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.codejam.hanoi_tower;
+package codejam.hanoi_tower;
 
 import java.util.Stack;
 

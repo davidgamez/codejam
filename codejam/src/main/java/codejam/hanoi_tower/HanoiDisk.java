@@ -1,4 +1,4 @@
-package com.codejam.hanoi_tower;
+package codejam.hanoi_tower;
 
 /**
  * This class represents a disk in Tower of Hanoi problem

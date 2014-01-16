@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.codejam.traveling_salesman;
+package codejam.traveling_salesman;
 
 import java.util.List;
 
@@ -9,16 +9,16 @@ import junit.framework.Assert;
 
 import org.junit.Test;
 
-import com.codejam.common.DirectedEdge;
-import com.codejam.common.DirectedEdgeUtils;
-import com.codejam.common.SimpleItem;
-import com.codejam.common.SimpleNode;
+import codejam.common.DirectedEdge;
+import codejam.common.DirectedEdgeUtils;
+import codejam.common.SimpleItem;
+import codejam.common.SimpleNode;
 
 /**
  * @author dgamez
  *
  */
-public class PermutationTSPTestCase {
+public class PermutationTSPTest {
 
 	@Test
 	public void getShortestPath(){

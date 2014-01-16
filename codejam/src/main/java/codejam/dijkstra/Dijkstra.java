@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.codejam.dijkstra;
+package codejam.dijkstra;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -10,9 +10,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import com.codejam.common.DirectedEdge;
-import com.codejam.common.Labeled;
-import com.codejam.common.Node;
+import codejam.common.DirectedEdge;
+import codejam.common.Labeled;
+import codejam.common.Node;
 
 /**
  * This class implements the Dijkstra algorithm.

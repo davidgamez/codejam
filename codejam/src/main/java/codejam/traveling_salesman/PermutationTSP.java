@@ -1,16 +1,16 @@
 /**
  * 
  */
-package com.codejam.traveling_salesman;
+package codejam.traveling_salesman;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-import com.codejam.common.DirectedEdge;
-import com.codejam.common.DirectedEdgeUtils;
-import com.codejam.common.Labeled;
-import com.codejam.common.Node;
+import codejam.common.DirectedEdge;
+import codejam.common.DirectedEdgeUtils;
+import codejam.common.Labeled;
+import codejam.common.Node;
 
 /**
  * This class represents the implementation of the Traveling Salesman Problem.

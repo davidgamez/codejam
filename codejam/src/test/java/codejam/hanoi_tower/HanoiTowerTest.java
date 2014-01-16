@@ -1,4 +1,4 @@
-package com.codejam.hanoi_tower;
+package codejam.hanoi_tower;
 
 import static org.junit.Assert.assertEquals;
 
@@ -11,7 +11,7 @@ import org.junit.Test;
  * @author dgamez
  *
  */
-public class HanoiTowerTestCase {
+public class HanoiTowerTest {
 
     @Test
     public void testMove() {

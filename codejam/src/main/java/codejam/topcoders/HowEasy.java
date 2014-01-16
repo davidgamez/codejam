@@ -1,4 +1,4 @@
-package com.codejam.topcoders;
+package codejam.topcoders;
 
 /**
  * Please find the description of the problem in HowEasy.txt
